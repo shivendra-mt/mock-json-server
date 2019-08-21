@@ -1,13 +1,15 @@
 {
   "notificationBanner": {
-  "datesToShow" : [{
-  "timestamp" : 1567159267,
-  "frequency" : 3
-  },
-  {
-  "timestamp" :  1568628067,
-  "frequency" : 2
-  }]
+  "datesToShow" : [
+    {
+      "timestamp" : 1567159267,
+      "frequency" : 3
+    },
+    {
+      "timestamp" :  1568628067,
+      "frequency" : 2
+    }
+  ],
   "bannerDisplayedToday" : false,
   "bannerUrl" : "http://lorempixel.com/640/480/people"
 }
