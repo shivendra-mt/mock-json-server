@@ -1,16 +1,18 @@
 {
-  "notificationBanner": {
-  "datesToShow" : [
-    {
-      "timestamp" : 1567159267,
-      "frequency" : 3
-    },
-    {
-      "timestamp" :  1568628067,
-      "frequency" : 2
-    }
-  ],
-  "bannerDisplayedToday" : false,
-  "bannerUrl" : "http://lorempixel.com/640/480/people"
-}
+    "campaigns" : [
+       {   "id": 1,
+           "startdate": 1567159267,
+           "enddate": 1567159267,
+           "impressions": 3,
+           "img" : "http://fhgfd.fngjdf.png",
+           "help" : " for impressions 0 means inactive .. < 0 means every session, > 1 means, divide it across given interval"
+       },
+       {   "id": 2,
+           "startdate": 1567159267,
+           "enddate": 1567159267,
+           "impressions": 1,
+           "img" : "http://fhgfd.fngjdf.png",
+           "help" : " for impressions 0 means inactive .. < 0 means every session, > 1 means, divide it across given interval"
+       }
+   ]
 }
